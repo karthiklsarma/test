@@ -18,3 +18,7 @@ second
 third
 
 fourth
+
+Fifth
+
+>>>>>>> Added fifth
