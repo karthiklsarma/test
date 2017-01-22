@@ -21,4 +21,3 @@ fourth
 
 Fifth
 
->>>>>>> Added fifth
